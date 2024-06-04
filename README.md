@@ -1,2 +1,2 @@
-# RECOMMENDATION-SYS
-This repository contains various ML-based recommendation systems, including collaborative and content-based filtering models implemented in Python using Pandas, NumPy, and Scikit-Learn. It also includes documentation on running and interpreting the results. Contributions welcome.
+# Cravings: Food Recommendation System
+This repository contains the code and resources for "Cravings," a food recommendation system designed to suggest personalized meal options. Utilizing machine learning algorithms, Cravings analyzes user preferences and dietary restrictions to deliver tailored food recommendations, enhancing the dining experience
